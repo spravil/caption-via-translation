@@ -1,0 +1,67 @@
+{
+    "total_prompt_count": {
+        "caption": {
+            "de": 212176888,
+            "en": 322384003
+        },
+        "translation": {
+            "de": 1960254558,
+            "es": 901121552,
+            "zh": 747386766,
+            "ru": 786632490,
+            "fr": 832723026
+        }
+    },
+    "max_prompt_count": {
+        "caption": {
+            "de": 20,
+            "en": 20
+        },
+        "translation": {
+            "de": 8162,
+            "es": 462,
+            "zh": 457,
+            "ru": 442,
+            "fr": 441
+        }
+    },
+    "total_output_count": {
+        "caption": {
+            "de": 788344516,
+            "en": 1131552520
+        },
+        "translation": {
+            "de": 1809689672,
+            "es": 762664515,
+            "zh": 543939630,
+            "ru": 732363716,
+            "fr": 752542533
+        }
+    },
+    "max_output_count": {
+        "caption": {
+            "de": 913,
+            "en": 12271
+        },
+        "translation": {
+            "de": 913,
+            "es": 463,
+            "zh": 629,
+            "ru": 580,
+            "fr": 530
+        }
+    },
+    "sample_count": {
+        "caption": {
+            "de": 12927044,
+            "en": 19431960
+        },
+        "translation": {
+            "de": 32848032,
+            "es": 19102755,
+            "zh": 16778439,
+            "ru": 17761632,
+            "fr": 18532141
+        }
+    }
+}
